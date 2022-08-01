@@ -9,10 +9,12 @@
   Global variables can be made local (private) with closures.
   
 # Uses of closure
-  Module Design Pattern
-  Currying
-  Functions like once
-  Memoize
-  Maintaining state in async
-  Settimeout 
-  Iterators
+<ul>
+  <li>Module Design Pattern</li>
+  <li>Currying</li>
+  <li>Functions like once</li>
+  <li>Memoize</li>
+  <li>Maintaining state in async</li>
+  <li>Settimeout</li>
+  <li>Iterators</li>
+</ul>
