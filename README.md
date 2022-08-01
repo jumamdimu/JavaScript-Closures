@@ -7,3 +7,12 @@
   
   JavaScript variables can belong to the local or global scope.
   Global variables can be made local (private) with closures.
+  
+# Uses of closure
+  Module Design Pattern
+  Currying
+  Functions like once
+  Memoize
+  Maintaining state in async
+  Settimeout 
+  Iterators
